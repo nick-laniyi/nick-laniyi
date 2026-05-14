@@ -1,112 +1,70 @@
-# Hi, I'm Nicholas
+# Nicholas Olaniyi — Technical Product Manager
 
-Technical Project Manager / Product Manager with a full-stack engineering background.  
-I specialize in building and managing scalable digital platforms for African markets.
+**I ship SaaS, fintech, and marketplace platforms from zero to scale.**
 
-My work sits at the intersection of **product strategy, engineering, and growth** — turning ideas into real products used by communities and businesses.
+[Portfolio](https://www.nicklaniyi.my.id) · [LinkedIn](https://linkedin.com/in/nicklaniyi) · [Medium](https://medium.com/@nicklaniyi)
 
 ---
 
 ## What I Do
 
-• Lead technical product development from idea → launch  
-• Manage cross-functional teams (engineering, design, marketing)  
-• Build MVPs and scalable platforms  
-• Define product requirements and system architecture  
-• Bridge communication between business and engineering
+I sit at the intersection of product strategy, technical architecture, and execution. I've shipped 10+ products across fintech, marketplaces, fitness, and hiring — working with cross-functional teams and building a lot of it myself.
+
+- Define product strategy, roadmap, and success metrics  
+- Design system architecture and lead technical decisions  
+- Manage engineering, design, and growth from kickoff to launch  
+- Run sprints, write specs, own delivery  
 
 ---
 
-## My Background
+## Products
 
-I started my career as a **full-stack developer**, building web platforms and learning how systems work end-to-end.
-
-Over time I moved into **technical project and product management**, where I now focus on:
-
-- Product planning
-- Feature prioritization
-- Technical architecture decisions
-- Delivery management
-- Growth experimentation
-
-This allows me to **translate product vision into technical execution**.
-
----
-
-## Products & Platforms
-
-### NaijaBased
-Community platform connecting people, opportunities, and local commerce in Nigeria.
-
-Features include:
-- Marketplace
-- Job listings
-- Events
-- Professional services
-- Community engagement
+| Product | Category | Stack | Highlights |
+|---|---|---|---|
+| **LiveTrader** | Prop Trading Platform | PHP · MySQL · Linux | 41 tenants · 864 users · $111M+ volume |
+| **NaijaBased** | Marketplace Platform | PHP → Next.js · Supabase | V1 → V2 rewrite · vendor portal · WhatsApp alerts |
+| **GymProHub** | Fitness SaaS | Next.js · Supabase · Paystack | 4-tier multi-tenant · QR walk-in · PWA |
+| **JobHunt AI** | Job Search Tool | Next.js · Gemini · Gmail API | 8 job sources · AI cover letters · WebAuthn |
+| **Ethliam** | E-commerce | Next.js · Supabase · R2 | Quiet luxury fashion · Nigerian market |
+| **SalesCall CRM** | Sales Tool | Next.js · Supabase | Call logging · pipeline · lead tracking |
+| **FalkOne** | Property Platform | Next.js · Supabase | Nigerian real estate listings |
+| **SOS Marketplace** | Service Marketplace | Next.js · Supabase | On-demand service providers |
+| **PM Notifier** | Notification Tool | Next.js | Multi-channel project alerts |
+| **NewLeaf Wellness** | Health Platform | Coordinaton role | Social + client engagement |
 
 ---
 
-### AkureBased
-Local community platform designed to support commerce and digital networking within Akure.
+## Experience
 
-Focus areas:
-- Local marketplace
-- Professional listings
-- Events and job opportunities
+**Technical Product Manager — Freelance / Remote** (2022 – present)  
+Built and shipped products end-to-end for startups across Nigeria and the UK.
 
----
-
-### GymProHub
-A digital platform designed for gym communities and fitness professionals.
+**Full-Stack Developer → Technical PM** (2019 – 2022)  
+Started as a developer, moved into product and delivery as teams scaled.
 
 ---
 
-### SalesCalls CRM
-A lightweight CRM designed for cold-calling teams and sales agents.
+## Stack
 
-Features include:
-- Lead tracking
-- Call logging
-- Sales pipeline management
-
----
-
-##  Technical Background
-
-My engineering experience helps me work closely with development teams.
-
-Technologies I’ve worked with:
-PHP
-MySQL
-JavaScript
-AJAX
-REST APIs
-Linux Servers
-
-
-
-I understand **system architecture, APIs, and backend workflows**, which helps me manage technical projects effectively.
+**Languages:** TypeScript · JavaScript · PHP · SQL  
+**Frontend:** Next.js · React · Tailwind CSS  
+**Backend:** Node.js · Drizzle ORM · REST APIs  
+**Infrastructure:** Supabase · Neon · Cloudflare R2 · Vercel  
+**AI/ML:** Gemini · Google AI Studio  
+**Payments:** Paystack · Stripe  
+**Process:** Agile · Scrum · Jira · Linear  
 
 ---
 
-##Areas I Focus On
+## Certifications
 
-Technical Project Management  
-Product Strategy  
-Platform Development  
-Marketplace Systems  
-Community Platforms  
-Startup MVP Development
+- Scrum Master Certified (SMC)  
+- Scrum Product Owner Certified (SPOC)  
 
 ---
 
-## Mission
+## Let's Work Together
 
-My goal is to build and manage **digital platforms that empower African communities and businesses**.
+I'm remote-first and available immediately.
 
----
-
-## Let's Connect
-
-LinkedIn: httos://linkedin.com/in/nicklaniyi
+[www.nicklaniyi.my.id](https://www.nicklaniyi.my.id) · [nicklaniyi@gmail.com](mailto:nicklaniyi@gmail.com)
